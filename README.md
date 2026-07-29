@@ -232,25 +232,28 @@ Rick_and_Morty/
 
 ## 📸 Screenshots
 
-###  Splash Screen
-
-<img width="450" height="350" alt="download (11)" src="https://github.com/user-attachments/assets/c255354d-baa7-460d-920a-ae00da6c6f17" />
-
-
-### 🏠 Characters Screen
-
-<img width="508" height="885" alt="Characters" src="https://github.com/user-attachments/assets/6da4a8f2-4387-431e-95f6-db71a0a9e8b7" />
-
-
-### 🔍 Search & Filter
-
-<img width="509" height="910" alt="search" src="https://github.com/user-attachments/assets/a1728f94-7f00-49c3-b9b0-ce3c85a8e483" />
-
-
-### 👽 Character Details
-
-<img width="513" height="913" alt="Character Details" src="https://github.com/user-attachments/assets/b186e9c6-001e-4e36-b281-818e49a17ebf" />
-
+<table>
+  <tr>
+    <td align="center">
+      <h3>🚀 Splash Screen</h3>
+      <img src="https://github.com/user-attachments/assets/c255354d-baa7-460d-920a-ae00da6c6f17" width="300"/>
+    </td>
+    <td align="center">
+      <h3>🏠 Characters Screen</h3>
+      <img src="https://github.com/user-attachments/assets/6da4a8f2-4387-431e-95f6-db71a0a9e8b7" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🔍 Search & Filter</h3>
+      <img src="https://github.com/user-attachments/assets/a1728f94-7f00-49c3-b9b0-ce3c85a8e483" width="300"/>
+    </td>
+    <td align="center">
+      <h3>👽 Character Details</h3>
+      <img src="https://github.com/user-attachments/assets/b186e9c6-001e-4e36-b281-818e49a17ebf" width="300"/>
+    </td>
+  </tr>
+</table>
 ### 📊 Excel Export
 
 ```md
