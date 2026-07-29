@@ -234,7 +234,7 @@ Rick_and_Morty/
 
 ###  Splash Screen
 
-<img width="450" height="450" alt="download (11)" src="https://github.com/user-attachments/assets/c255354d-baa7-460d-920a-ae00da6c6f17" />
+<img width="450" height="350" alt="download (11)" src="https://github.com/user-attachments/assets/c255354d-baa7-460d-920a-ae00da6c6f17" />
 
 
 ### 🏠 Characters Screen
