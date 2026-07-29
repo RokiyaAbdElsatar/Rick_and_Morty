@@ -236,6 +236,13 @@ Rick_and_Morty/
 
 
 ```md
+![Splash Screen](screenshots/home.png)
+```
+
+### 🏠 Characters Screen
+
+
+```md
 ![Characters Screen](screenshots/home.png)
 ```
 
